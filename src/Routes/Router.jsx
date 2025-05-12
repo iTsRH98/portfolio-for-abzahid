@@ -6,6 +6,7 @@ import About from "../pages/About/About";
 import Skills from "../pages/Skills/Skills";
 import Find from "../pages/Find/Find";
 import Contact from "../pages/Contact/Contact";
+import MyMap from "../components/MyMap/MyMap";
 
 const router = createBrowserRouter([
   {
@@ -33,6 +34,10 @@ const router = createBrowserRouter([
       {
         path: "/find",
         Component: Find,
+      },
+      {
+        path: "/my-map",
+        Component: MyMap,
       },
     ],
   },

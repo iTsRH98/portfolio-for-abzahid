@@ -1,0 +1,37 @@
+[
+  {
+    "category": "coding",
+    "skills": [
+      { "name": "HTML5 & CSS3", "level": "Advanced" },
+      { "name": "JavaScript (ES6+)", "level": "Intermediate" },
+      { "name": "React.js", "level": "Intermediate" },
+      { "name": "Bootstrap & Tailwind CSS", "level": "Advanced" },
+      { "name": "Node.js (Basics)", "level": "Beginner" },
+      { "name": "Firebase Authentication", "level": "Intermediate" },
+      { "name": "Git & GitHub", "level": "Intermediate" }
+    ]
+  },
+  {
+    "category": "speaking",
+    "skills": [
+      { "language": "Bangla", "fluency": "Native" },
+      {
+        "language": "English - (American And British)",
+        "fluency": "Professional"
+      },
+      { "language": "Hindi", "fluency": "Conversational" },
+      { "language": "Urdu", "fluency": "Conversational" },
+      { "language": "Japanese", "fluency": "Beginner" }
+    ]
+  },
+  {
+    "category": "reading",
+    "skills": [
+      { "language": "Bangla", "fluency": "Fluent" },
+      { "language": "English - (American And British)", "fluency": "Advanced" },
+      { "language": "Hindi", "fluency": "Moderate" },
+      { "language": "Urdu", "fluency": "Moderate" },
+      { "language": "Arabic", "fluency": "Beginner" }
+    ]
+  }
+]
